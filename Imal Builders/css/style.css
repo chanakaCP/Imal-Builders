@@ -534,7 +534,7 @@ header .navbar .cta-btn a:hover {
   font-weight: 300;
 }
 
-/* .heading {
+.heading {
   color: #000;
 }
 
@@ -931,4 +931,4 @@ header .navbar .cta-btn a:hover {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px;
   }
-} */
+}
