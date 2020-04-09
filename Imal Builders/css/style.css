@@ -732,6 +732,8 @@ header .navbar .cta-btn a:hover {
   position: relative;
   overflow: hidden;
   text-align: center;
+  margin-top: 15px;
+  margin-left: 15px;
 }
 
 .link-thumbnail img {
